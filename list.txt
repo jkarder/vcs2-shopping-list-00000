@@ -3,9 +3,6 @@ birnen
 orangen
 bier
 leberkaaas
-  - normal
-  - kaaas
-  - pikant
 chips
 wurst
 kaese
